@@ -14,7 +14,7 @@ My main complaints are:
 
 It might be easier to just "own everything" and a raspberrypi or similar but that requires a little hardware and would be of the order of 120 dollars rather than 30 dollars (though we shall see how many usb mini cables I have to buy)
 
-## Hurdle number three: Device would not factory reset
+## Hurdle: Device would not factory reset
 
 The guide suggested factory resetting. When I tried this I got this error:
 
@@ -50,17 +50,19 @@ For protection against bit rot, I shall describe the process here.
 1. Press it and you are done
 
 
-## Hurdle number two
+## Hurdle firmware page discourages you from downloading firmware 
 
 Downloading firmware. Some of the documentation muttered about automatic firmware downloads but you can still download the firmware [here](https://help.barnesandnoble.com/hc/en-us/articles/5583185727643-NOOK-Simple-Touch-Simple-Touch-with-GlowLight-Software-Updates under the manual download section)
 
 I may well include the firmware here for posterity - though do you trust me to download firmware.
 
-## Hurdle number two: Usb device not being detected
+## Hurdle: Usb device not being detected
 
 When I plugged in the nook it started charging, but I could not see the device from a mac. 
 
 This [blogpost](https://www.reddit.com/r/nook/comments/kj0lud/nook_first_edition_not_recognized_by_computer/) suggested trying different cables.
+
+I shall stop here and buy some USB cables. 
 
 
 
