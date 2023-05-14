@@ -62,7 +62,7 @@ When I plugged in the nook it started charging, but I could not see the device f
 
 This [blogpost](https://www.reddit.com/r/nook/comments/kj0lud/nook_first_edition_not_recognized_by_computer/) suggested trying different cables.
 
-I shall stop here and buy some USB cables. 
+I bought two more cables - neither device was detected on a mac. I wonder if it's the usb-c to usb mini adaptor.
 
 
 
