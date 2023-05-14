@@ -61,10 +61,11 @@ I may well include the firmware here for posterity - though do you trust me to d
 When I plugged in the nook it started charging, but I could not see the device from a mac. 
 
 * This [blogpost](https://www.reddit.com/r/nook/comments/kj0lud/nook_first_edition_not_recognized_by_computer/) describes the issue suggested trying different cables.
+* This [blogpost](https://www.reddit.com/r/nook/comments/o0x7w5/help_nook_doesnt_show_up_in_devices_but_still/) describes the issue and suggests using a different cable.
 * This [blogpost](https://answers.microsoft.com/en-us/windows/forum/all/nook-simple-touch-not-detected-in-usb-port/f5340f3b-85a7-4970-90a5-3b09b9d1d9d2) also describes the issue. It reports success using old cables and an older windows machine.
 * This [forum post](https://www.mobileread.com/forums/showthread.php?t=263852) discusses the issue for mac and describes pressing the power button the back several times fixing the issue.
 
-I bought two more cables - neither device was detected on a mac. I wonder if it's the usb-c to usb mini adaptor.
+I bought two more cables - neither device was detected on a mac. I wonder if it's the usb-c to usb-micro dongle.
 
 
 
