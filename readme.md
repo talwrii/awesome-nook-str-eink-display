@@ -20,7 +20,7 @@ The guide suggested factory resetting. When I tried this I got this error:
 
 Device inform > Erase and Deregister Device > Erase and deregister device complained that 
 
-```You are currently not connected to the network. Network connectivity is required to deregister this device"
+```You are currently not connected to the network. Network connectivity is required to deregister this device```
 
 despite being connected to the internet.
 
