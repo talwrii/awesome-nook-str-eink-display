@@ -49,15 +49,14 @@ For protection against bit rot, I shall describe the process here.
 1. A skip oboe button will appear
 1. Press it and you are done
 
+(In fairness, some of this is discussed in the blog above - or at least linked to)
 
 ## Hurdle firmware page discourages you from downloading firmware 
-
 Downloading firmware. Some of the documentation muttered about automatic firmware downloads but you can still download the firmware [here](https://help.barnesandnoble.com/hc/en-us/articles/5583185727643-NOOK-Simple-Touch-Simple-Touch-with-GlowLight-Software-Updates under the manual download section)
 
 I may well include the firmware here for posterity - though do you trust me to download firmware.
 
 ## Hurdle: Usb device not being detected
-
 When I plugged in the nook it started charging, but I could not see the device from a mac. 
 
 * This [blogpost](https://www.reddit.com/r/nook/comments/kj0lud/nook_first_edition_not_recognized_by_computer/) describes the issue suggested trying different cables.
@@ -67,6 +66,10 @@ When I plugged in the nook it started charging, but I could not see the device f
 
 I bought two more cables - neither device was detected on a mac. I wonder if it's the usb-c to usb-micro dongle.
 
+## Hurdle: It is inclear precisely how to get the nook to detect the firmware
+Also the first time I tried to copy the file, the nook device disappeared half way through, and then would no remount. I had to restart the nook to get this to work.
+
+[This video](https://www.youtube.com/watch?v=xWaHlCxIpaw) describe "waiting a couple of minutes with an unpluged NOOK" until it falls asleep after unplugging it and reports that the firmware update takes around 5 minutes. I decided to go for a walk because I got bored of waiting.
 
 
 
