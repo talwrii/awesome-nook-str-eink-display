@@ -9,7 +9,7 @@ I was hoping this would "just work". I picked the specific device that was descr
 
 My main complaints are:
 
-* Usb mini cables entering my life. This is acceptable since I am planning to leave the device plugged in an am not moving regularly.
+* Usb micro cables entering my life. This is acceptable since I am planning to leave the device plugged in an am not moving regularly.
 * Unreliable cables. This means I have to buy multiple usb cables.
 
 It might be easier to just "own everything" and a raspberrypi or similar but that requires a little hardware and would be of the order of 120 dollars rather than 30 dollars (though we shall see how many usb mini cables I have to buy)
